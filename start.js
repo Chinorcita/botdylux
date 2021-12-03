@@ -5,12 +5,12 @@ let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
 
-CFonts.say('FG98', {
+CFonts.say('Chino', {
   font: 'pallet',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`dylux-bot By FG98 Ig : @fg98._`, {
+CFonts.say(`Chino-bot By Chino`, {
   font: 'console',
   align: 'center',
   colors: ['yellow']
